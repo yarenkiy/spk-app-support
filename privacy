@@ -1,33 +1,49 @@
 Gizlilik Politikası
+Son Güncelleme: Şubat 2026
+SPL Mentor, eğitim amaçlı bir çalışma destek uygulamasıdır. Kullanıcı gizliliğine önem verilir.
+1. Veri Toplama
+Uygulama, geliştirici tarafından herhangi bir kişisel veriyi toplamaz, saklamaz veya kendi sunucularında barındırmaz.
+Kullanıcıya ait veriler yalnızca cihaz üzerinde yerel olarak saklanır ve kullanıcının kontrolü altındadır.
 
-Bu uygulama, eğitim amaçlı bir çalışma destek aracıdır.
+2. Yapay Zeka Hizmetleri
+Uygulama, bazı özelliklerde üçüncü taraf yapay zeka servislerinden yararlanmaktadır.
+Kullanıcının AI özelliklerine girdiği metinler, yanıt oluşturulması amacıyla güvenli şekilde ilgili yapay zeka servis sağlayıcısına iletilebilir.
+Bu veriler yalnızca anlık yanıt üretimi için işlenir.
+Uygulama geliştiricisi bu verileri saklamaz, analiz etmez veya takip etmez.
+Üçüncü taraf servis sağlayıcılar kendi gizlilik politikalarına tabidir.
 
-Veri Toplama
-Uygulama, kullanıcıya ait herhangi bir kişisel veriyi dış sunuculara toplamaz, saklamaz veya iletmez.
-Tüm kullanıcı verileri yalnızca kullanıcının cihazı üzerinde yerel olarak saklanır.
+3. Ödeme ve Abonelik
+Abonelik işlemleri Apple tarafından yönetilmektedir.
+Uygulama, kullanıcıya ait ödeme bilgilerine erişmez veya bunları saklamaz.
 
-Verilerin Kullanımı
-Uygulama tarafından toplanan herhangi bir veri bulunmadığından, kişisel bilgiler analiz, reklam veya takip amaçlı kullanılmaz.
+4. Veri Paylaşımı
+Uygulama geliştiricisi kullanıcı verilerini üçüncü taraflarla satmaz veya paylaşmaz.
 
-Veri Paylaşımı
-Uygulama, kullanıcı verilerini üçüncü taraflarla paylaşmaz veya satmaz.
-
-İletişim
-Bu gizlilik politikası ile ilgili sorularınız için bizimle iletişime geçebilirsiniz:
-yarennkiy@outlook.com
-
+5. İletişim
+Bu gizlilik politikası hakkında sorularınız için:
+📧 yarennkiy@outlook.com
 
 Privacy Policy
+Last Updated: February 2026
+SPL Mentor is an educational study support application. We respect user privacy.
+1. Data Collection
+The app does not collect, store, or host personal data on the developer’s own servers.
+All user data remains locally on the user’s device and under the user’s control.
 
-This application is an educational study support tool.
+2. AI Services
+The app uses third-party AI services to generate educational responses.
+Text entered into AI-powered features may be securely transmitted to the AI service provider for processing.
+The data is processed solely for generating responses.
+The developer does not store, track, or analyze this data.
+Third-party providers operate under their own privacy policies.
 
-Data Collection
-The app does not collect, store, or transmit any personal data to external servers.
-All user data is stored locally on the user's device and remains under the user's control.
+3. Payments and Subscriptions
+All subscription payments are processed and managed by Apple.
+The app does not access or store payment information.
 
-Data Usage
-Since no data is collected externally, no personal information is shared, sold, or used for tracking or analytics.
+4. Data Sharing
+The developer does not sell or share user data.
 
-Contact
-If you have any questions about this Privacy Policy, please contact:
-yarennkiy@outlook.com
+5. Contact
+For any questions regarding this Privacy Policy:
+📧 yarennkiy@outlook.com
